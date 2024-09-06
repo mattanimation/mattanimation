@@ -13,6 +13,6 @@
 
 ![hr](https://user-images.githubusercontent.com/39755201/159233055-3bd55a37-7284-46ad-b759-5ab0c13b3828.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattanimation&layout=donut&langs_count=12&hide_progress=true&theme=gotham&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattanimation&layout=donut&langs_count=12&hide_progress=true&theme=gotham&hide=css)](https://github.com/mattanimation/github-readme-stats)
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
