@@ -1,8 +1,7 @@
 
 
 <ul>
-    <li>👨🏻‍💼 My name is <code>Matt Murray</code></li>
-    <li>🧑🏻‍💻 I'm a <code>Software Engineer</code></li>
+    <li>🤖 I'm a <code>Creative Technologist</code></li>
     <li>📫 Contact me at <code>matt@robotsarehard.com</code></li>
     <li>⚡ I make things.</li>
 </ul>
